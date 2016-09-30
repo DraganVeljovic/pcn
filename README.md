@@ -1,2 +1,2 @@
 # pcn
-Design of computer network using Cisco Packet Tracer, for given specification.
+Design of computer network, for given specification, using Cisco Packet Tracer.
